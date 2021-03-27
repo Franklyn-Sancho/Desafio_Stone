@@ -1,0 +1,15 @@
+.App {
+  
+  height: 130vh;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  display: block;
+  background-image: url(./components/assets/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-color: rgba(10,23,55,.1)
+}
+
+
