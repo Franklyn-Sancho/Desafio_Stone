@@ -1,4 +1,4 @@
-<h1 align="center”> Desafio técnico da Stone </h1>
+<h1 align="center"> Desafio técnico da Stone</h1>
 
 O desafio da Stone era construir uma aplicação com Frontend e Backend, a qual o usuário, pela interface poderia criar uma conta e ter acesso a diversos conteúdos do universo Marvel. Além disso, ele também poderia editar o perfil e excluí-lo. Nós, candidatos, poderíamos construir essa aplicação com qualquer biblioteca javascript e rodando com qualquer banco de dados, de preferência, relacional. 
 
