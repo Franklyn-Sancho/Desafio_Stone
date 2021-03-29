@@ -9,7 +9,7 @@ import Signup from './components/template/Signup';
 ReactDOM.render(
   <BrowserRouter>
   	<Switch>
-  		<Route path='/login' component={App} />
+  		<Route path='/' component={App} />
 		<Route path='/signup' component={Signup} />
 	</Switch>
   </BrowserRouter>,

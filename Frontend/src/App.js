@@ -1,13 +1,14 @@
 import './App.css';
 import Login from './components/template/Login'
 import { BrowserRouter } from 'react-router-dom'
+import Routes from './Routes'
 
 
 function App() {
   return (
   	<BrowserRouter>
     	<div className="App">
-      		<Login />
+      		<Routes />
       	</div>
     </BrowserRouter>
   );

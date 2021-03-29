@@ -71,9 +71,9 @@ function Signup() {
 							</input>
 
 						</div>
-						<button id="register" type="submit">Cadastrar</button>
+						<button id="submit" type="submit">Cadastrar</button>
 						<Link to="/">
-						<button id="register" type="submit">Login</button>
+						<button id="submit" type="submit">Login</button>
 						</Link>
 					</form>
 				</div>
