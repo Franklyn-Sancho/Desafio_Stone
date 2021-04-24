@@ -1,1 +1,1 @@
-
+Foi o que eu consegui fazer em dois dias num ATOM dual core de 1.5 ghz, rodando o Lubuntu e programando no Sublime-Text. Neste PC eu só poderia rodar dois processos ao mesmo tempo e ainda assim travava muito. Passei três meses da minha vida estudando por esse computador. Percebi o quanto eu amo e acredito no que eu faço. 
